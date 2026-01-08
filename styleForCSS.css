@@ -1,0 +1,72 @@
+#Headline{
+    color: blueviolet;
+    background-color: aqua;
+    text-align: center;
+    background-size: 5px;
+    border-radius: 2px;
+    border-style: dotted;
+    border-color: rgb(100, 64, 64);
+    border-style: double;
+    margin: 20px;
+    padding: 10px;
+    box-shadow: inset;
+    box-sizing: border-box;
+    box-shadow: 15px;
+    background-size: auto;
+
+}
+.Headline2{
+    color: blueviolet;
+    text-align: center;
+    background-color: rgb(235, 190, 30);
+    background-size: 50px;
+    border-radius: 20px;
+    border-style: dotted;
+    border-color: rgb(100, 64, 64);
+    border-style: double;
+    margin: 10px;
+    padding: 10px;
+}
+h3{
+    color:blue;
+    text-align: center;
+    background-color: cadetblue;
+    border-style: dotted;
+    box-sizing: border-box;
+    background:cyan;
+    border-radius: 15px;
+}
+li{
+    color: brown;
+    background-color: rgb(204, 255, 153);
+    width: 25%;
+    background-position: left;
+    border-radius: 10px;
+    text-align: center;
+}
+p{
+    color: rgb(255, 255, 255);
+    text-align: justify;
+    background-color: rgb(72, 178, 244);
+    border: 15px;
+    border-color: rgb(146, 13, 13);
+    border-radius: 10px;
+    border-style: dotted;
+    margin: 5px;
+    padding: 20px;
+}
+List{
+    align-self: center;
+    border: 10px;
+    border-radius: 5px;
+    text-align: center;
+    align-content: center;
+}
+button{
+    color: rgb(255, 102, 102);
+    background-color: darkgreen;
+    align-items: right;
+    align-content: flex-end;
+    justify-content: end;
+
+}
